@@ -2,7 +2,7 @@
 
 # NumPy_starter 
 
-Welcome to **NumPy_starter**, a project dedicated to exploring the foundational concepts and exercises related to the powerful **NumPy** library in Python. This collection of exercises is a part of my journey through a data science bootcamp, where I focused on learning:
+Welcome to **NumPy_starter**, a project dedicated to exploring the foundational concepts and exercises related to the powerful **NumPy** library in Python. This collection of exercises is a part of my journey through a data analytics bootcamp, where I focused on learning:
 
 ### What I've Learned:
 - **Creating NumPy Arrays**: How to create and manipulate arrays of different shapes and sizes.
