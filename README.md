@@ -89,7 +89,7 @@ To run the notebooks in this repository, you will need:
 3. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install numpy
    ```
 
 4. Launch Jupyter Notebook:
@@ -113,7 +113,7 @@ This repository is structured as a learning resource for both beginners and adva
 
 If you have any questions, suggestions, or would like to contribute to this project, please feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
 
-Alternatively, you can connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or visit my [GitHub profile](https://github.com/EvaRguez).
+Alternatively, you can connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/eva-rodriguez-ceballos-/)).
 
 ---
 
